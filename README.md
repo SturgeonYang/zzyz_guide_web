@@ -1,1 +1,1 @@
-# zzyz_guide_MiniProgram
+# zzyz_guide_web
